@@ -1,6 +1,6 @@
 # AACS2034-Past-Year-Answer
 
-This repository consists of answers for the past year's papers on the subject AACS2034 Computer Systems Architecture
+This repository consists of answers for the past year's papers on the subject AACS2034 Fundamentals of Computer Networks
 
 ## Repository Structure
 
