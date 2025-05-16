@@ -48,17 +48,17 @@ Broadcast address: `172.16.3.63`
 Default gateway: `172.16.3.1`
 
 > - Network address: `172.16.3.0`
-> - Broadcast address: `172.16.3.00|1111111 = 172.16.3.63`
+> - Broadcast address: `172.16.3.00|111111 = 172.16.3.63`
 
 iv) Not agree. This is because Server0 is located at a different network segment than Laptop2. Laptop2 requires the default gateway to allow its packets to be routed outside its LAN and reach Server0.
 
 v)
 
-172.16.1.0/25 (Top)
-172.16.2.0/25 (Top Right)
-192.168.1.0/30 (Top Right Router Link)
-192.168.2.0/30 (Bottom Right Router Link)
-172.16.4.0/28 (Bottom Right)
+- 172.16.1.0/25 (Top)
+- 172.16.2.0/25 (Top Right)
+- 192.168.1.0/30 (Top Right Router Link)
+- 192.168.2.0/30 (Bottom Right Router Link)
+- 172.16.4.0/28 (Bottom Right)
 
 ### Question 2
 
