@@ -79,9 +79,9 @@ c) DHCP is a protocol used to dynamically assign IP addresses to devices on a ne
 
 d)
 
-- Increasing network population
-- Limited IPv4 address space
-- Internet of Things (IoT) devices demanding more IP addresses
+- IPv4 address depletion
+- Internet routing table expansion impacting routing performance
+- NAT technique causes problems with end-to-end connectivity due to multiple devices sharing a single public IP address
 
 ### Question 3
 
