@@ -1,3 +1,4 @@
+https://eprints.tarc.edu.my/cgi/users/login?target=https%3A%2F%2Feprints.tarc.edu.my%2F27893%2F1%2FAACS2034.pdf(Link to the Past year
 Question 1.
 a.
 (i) sh ip route
@@ -78,26 +79,26 @@ IT
 Purchasing
 /27
 192.168.10.96
-192.168.10.
-192.168.10.
+192.168.10.97
+192.168.10.126
 192.168.10.127
 Warehouse
 /28
 192.168.10.128
-192.168.10.
-192.168.10.
+192.168.10.129
+192.168.10.142
 192.168.10.143
 SALES
 /28
 192.168.10.144
-192.168.10.
-192.168.10.
+192.168.10.145
+192.168.10.158
 192.168.10.159
 R-R(Router-router) /WAN1
 /30
 192.168.10.160
-192.168.10.
-192.168.10.
+192.168.10.161
+192.168.10.162
 192.168.10.163
 
 Q4. (My own Question target come out 202501 Final Exam FCN)
@@ -116,7 +117,7 @@ Post Office Protocol 3 (POP 3)
 (3 marks)  --> Use for retrieving email(s) from mail server. Port number is 110 
 
 b. SMTP, POP, ICMP
-c. Common message type is GET POST PUT 
+c. Common message types is GET POST PUT 
 GET - is HTTP message type to REQUEST web page or HTML or data from a HTTP Server by HTTP client
 POST - is a HTTP message type to SEND web data usually in HTML Form to HTTP Server
-PUT - is a HTTP mssage type to UPLOAD RESOURCES(usually images or files) into HTTP  server
+PUT - is a HTTP message type to UPLOAD RESOURCES(usually images or files) into HTTP  server
