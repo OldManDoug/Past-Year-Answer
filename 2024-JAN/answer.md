@@ -2,15 +2,15 @@ https://eprints.tarc.edu.my/cgi/users/login?target=https%3A%2F%2Feprints.tarc.ed
 (Link to the Past year- not sure how to make the link to question
 
 Question 1.
-a.
-(i) sh ip route
+a.(i) sh ip route
 (ii)route table
 (iii) 6 routes which are directly connected and remote routes
 (iv)172.16.18.0/24 and 209.165.200.0/30 // is connected by 172.18.3.1(IP address)  --> remote route
 (v).172.16.18.0/24  192.168.10.0/26 //if the word is had been means VLSMéd then 209.165.200.0/24 192.168.10.0/24
-actual answer: PRIVATE IP addresses, public IP address /local ip 
+actual answer: private IP addresses, public IP address /local ip 
 (vi) As a default gateway and to connect to a networking device(router or switch) that is connected directly to R1. Used to assign an IP to a host connected to the interface Gi 0/1   //because has an L(variably subnetted) it is used to assign host addresses on a network 
 (vii)Packet will be dropped. Reason: 210 network address is greater than all the network subnet addresses on the route table. So the packet cannot pass through the gateway.
+
 b.  Connectionless --> does not need a connection to Work
     BestEffort--> will not guarantee packet delivered safely and correctly
     MediaIndependent --> can be used on any media avaliable to pass data. 
@@ -56,10 +56,10 @@ TOTAL HOST = use the 2^N ,then 8-N = H
 8-N, N=3 8-3 = 5 BIT is for Host   Useable host: 2^5 -2 = 30 useable hosts
 
 d. 192.168.8.9 is broadcast yes or no? --> NO/yes = 1m, find the broadcast address then compare with the question's question +2m ! 
-Answer:  NO because the broadcast address is the LAST IP in a subnet/ network. The last IP adddress for the network is 192.168.8.31. therefore 192.168.8.31 is the actual broadcast address, not 192.168.8.9 . 
+Answer:  NO because the broadcast address is the LAST IP in a subnet/ network. The last IP address for the network is 192.168.8.31. therefore 192.168.8.31 is the actual broadcast address, not 192.168.8.9 . 
 
-3b. ( VLSM) - cant make table here 
-P ADD: C = 192.168.10.0/24 (CLASS C) 
+3b. (VLSM) - cant make table here 
+192.168.10.0/24 (CLASS C) 
 Branch Name / WAN Link
 Prefix length(/X)
 Subnet Address
